@@ -12,10 +12,7 @@ The goals / steps of this project are the following:
 * Make a pipeline that finds lane lines on the road
 * Reflect on your work in a written report
 
-
-[//]: # (Image References)
-
-[image1]: ./examples/grayscale.jpg "Grayscale"
+[![solidYellowLeft_video](https://github.com/YuehChuan/CarND-LaneLines-P1/blob/master/test_images_output/solidYellowLeft_video.png)](https://youtu.be/oWCK7H9k5_4)
 
 ---
 
@@ -52,7 +49,7 @@ The result merge line_image and color image in same frame with weighted_img() fu
 
 If you'd like to include images to show how the pipeline works, here is how to include an image: 
 
-![alt text][image1]
+![alt text][https://github.com/YuehChuan/CarND-LaneLines-P1/blob/master/test_images_output/lines-solidYellowCurve2.jpg]
 
 
 ### 2. Identify potential shortcomings with your current pipeline
