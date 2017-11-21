@@ -14,6 +14,8 @@ The goals / steps of this project are the following:
 
 [![solidYellowLeft_video](https://github.com/YuehChuan/CarND-LaneLines-P1/blob/master/test_images_output/solidYellowLeft_video.png)](https://youtu.be/oWCK7H9k5_4)
 
+writeup.md:
+https://github.com/YuehChuan/CarND-LaneLines-P1/blob/master/writeup_template.md
 ---
 
 ### Reflection
